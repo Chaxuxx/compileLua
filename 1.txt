@@ -1,0 +1,1 @@
+g++ -std=c++17 test2.cpp -I"./sol2/include" -I"./lua-5.4.7/include" -L"./lua-5.4.7/lib" -llua
